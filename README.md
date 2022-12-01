@@ -6,7 +6,7 @@ Stormwater runoff from urban roads and streets is a potential source of surface 
 **Theory**<br />
 The relationship between soil moisture and crop health is not straightforward and usually not well understood.  Techniques and tools commonly used in the field of data science are used to understand the flow and retention of water in the soil.  
 
-Water movement in soil is driven by two physical forces, gravity and capillarity. If the soil is completely saturated or very wet (After an irrigation event), the primary force acting on the water will be gravity and can be best discribed be Darcy’s Law; 
+Water movement in soil is driven by two physical forces, gravity and capillarity. If the soil is completely saturated or very wet (After an irrigation event), the primary force acting on the water will be gravity and can be best discribed by Darcy’s Law; 
 
 
 $$\frac{\partial \theta}{\partial t} = flow  = -K_s(dh/dz)$$
